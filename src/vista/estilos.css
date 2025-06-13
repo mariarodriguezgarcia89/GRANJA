@@ -1,12 +1,12 @@
 .root {
-	    -fx-background-image: url("file:/C:/Users/rodri/eclipse-workspace/GRANJAFX/src/vista/fondo.jpg");
+	    -fx-background-image: url("file:/C:/Users/rodri/eclipse-workspace/GRANJAFX/src/vista/fondo2.jpeg");
 	    -fx-background-repeat: no-repeat;
 	    -fx-background-position: center center;
 	    -fx-background-size: 100% 100%;
 	}
 
 	.rootTienda {
-	    -fx-background-image: url("file:/C:/Users/rodri/eclipse-workspace/GRANJAFX/src/vista/tienda.jpg");
+	    -fx-background-image: url("file:/C:/Users/rodri/eclipse-workspace/GRANJAFX/src/vista/tienda2.jpeg");
 	    -fx-background-repeat: no-repeat;
 	    -fx-background-position: center center;
 	    -fx-background-size: 100% 100%;
@@ -16,7 +16,7 @@
 	    -fx-font-family: "Comic Sans MS", "Arial";
 	    -fx-font-size: 22px;
 	    -fx-font-weight: bold;
-	    -fx-text-fill: #3c763d; /* Verde amigable */
+	    -fx-text-fill: white; /* Verde amigable */
 	    -fx-effect: dropshadow(one-pass-box, rgba(0,0,0,0.2), 2, 0, 0, 1);
 	    -fx-text-transform: none;
 	    -fx-padding: 5px 10px;
