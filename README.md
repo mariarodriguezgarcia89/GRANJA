@@ -1,3 +1,5 @@
+Este proyecto está en la rama 'master'. Si desea descargarlo manualmente, por favor asegúrese de estar en esa rama antes de pulsar 'Download ZIP'.
+
 Mini Granja Virtual
 Autoría: María Rodríguez García, Antia Pardo Jiménez y Mara Delgado Ciruela
 
